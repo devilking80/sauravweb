@@ -1,0 +1,542 @@
+.body{
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Jain-University-Bangalore.jpg");
+  background-position: 100%;
+  background-position: 0%;
+  background-position-y: top;
+  
+}
+
+ .body{
+  min-height: 363px;
+}
+.u-section-1 .u-sheet-1 {
+  min-height: 318px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px 159px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 10px 0 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 289px;
+  height: auto;
+  margin: 23px auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 5px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.25rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 892px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 13px 0 0;
+}
+
+.u-section-2 .u-table-1 {
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.u-block-e2b2-6 {
+  background-image: none;
+}
+
+.u-section-2 .u-table-body-1 {
+  font-size: 1.125rem;
+}.u-section-3 .u-sheet-1 {
+  min-height: 708px;
+}
+
+.u-section-3 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-3 .u-table-1 {
+  margin-top: 14px;
+  margin-bottom: 13px;
+}
+
+.u-block-102f-6 {
+  background-image: none;
+}
+
+.u-section-3 .u-table-body-1 {
+  font-size: 1.125rem;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-table-1 {
+    margin-bottom: 38px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-table-1 {
+    margin-bottom: 35px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 895px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 14px auto 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-text-3 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 14px 0 0;
+}
+
+.u-section-4 .u-text-5 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-text-6 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-table-1 {
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.u-block-29fa-11 {
+  background-image: none;
+}
+
+.u-section-4 .u-table-body-1 {
+  font-size: 1.125rem;
+}.u-section-5 .u-sheet-1 {
+  min-height: 493px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 10px auto 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  font-size: 1.25rem;
+}
+
+.u-section-5 .u-text-3 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-text-4 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 19px;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-2 {
+    font-size: 1rem;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 642px;
+}
+
+.u-section-6 .u-text-1 {
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-text-3 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-table-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.u-block-92d9-8 {
+  background-image: none;
+}
+
+.u-section-6 .u-table-body-1 {
+  font-size: 1.125rem;
+}.u-section-7 .u-sheet-1 {
+  min-height: 1573px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-7 .u-text-2 {
+  margin: 12px 0 0;
+}
+
+.u-section-7 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-7 .u-text-4 {
+  margin: 12px 0 0;
+}
+
+.u-section-7 .u-text-5 {
+  font-weight: 700;
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-table-1 {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-block-aaf3-11 {
+  background-image: none;
+}
+
+.u-section-7 .u-table-body-1 {
+  font-size: 1.125rem;
+}
+
+.u-section-7 .u-text-6 {
+  margin: 30px 0 0;
+}
+
+.u-section-7 .u-text-7 {
+  font-weight: 700;
+  margin: 20px 0 0;
+}
+
+.u-section-7 .u-table-2 {
+  margin-top: 14px;
+  margin-bottom: 0;
+}
+
+.u-block-aaf3-52 {
+  background-image: none;
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-text-1 {
+    margin-top: 60px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 95px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 9px auto 0 0;
+}.u-section-9 .u-sheet-1 {
+  min-height: 886px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 700;
+  margin: 13px auto 0 0;
+}
+
+.u-section-9 .u-text-2 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-9 .u-text-3 {
+  margin: 20px 115px 0 0;
+}
+
+.u-section-9 .u-table-1 {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-block-3b52-10 {
+  background-image: none;
+}
+
+.u-section-9 .u-table-body-1 {
+  font-size: 1.125rem;
+}
+
+.u-section-9 .u-table-cell-1 {
+  background-image: none;
+}
+
+.u-section-9 .u-table-cell-2 {
+  background-image: none;
+}
+
+.u-section-9 .u-text-4 {
+  margin: 20px 115px 0 0;
+}
+
+.u-section-9 .u-text-5 {
+  margin-left: 0;
+  margin-right: 115px;
+  margin-bottom: 0;
+}
+
+.u-section-9 .u-text-6 {
+  margin-left: 0;
+  margin-right: 115px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-9 .u-text-6 {
+    margin-right: 0;
+  }
+} .u-section-10 {
+  min-height: 318px;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 938px;
+}
+
+.u-section-10 .u-layout-wrap-1 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.u-section-10 .u-image-1 {
+  min-height: 655px;
+  background-image: url("images/JAINHOSTEL.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-10 .u-layout-cell-2 {
+  min-height: 655px;
+  background-image: none;
+}
+
+.u-section-10 .u-container-layout-2 {
+  padding: 30px 53px;
+}
+
+.u-section-10 .u-text-1 {
+  margin: 0 auto 0 8px;
+}
+
+.u-section-10 .u-text-2 {
+  margin: 64px auto 0 0;
+}
+
+.u-section-10 .u-text-3 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-10 .u-text-4 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-10 .u-text-5 {
+  margin: 24px auto 0 0;
+}
+
+.u-section-10 .u-table-1 {
+  margin-top: 27px;
+  margin-bottom: 50px;
+}
+
+.u-block-cd9c-21 {
+  background-image: none;
+}
+
+.u-section-10 .u-table-body-1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.u-section-10 .u-table-cell-2 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 823px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 540px;
+  }
+
+  .u-section-10 .u-layout-cell-2 {
+    min-height: 540px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-10 {
+    min-height: 66px;
+  }
+
+  .u-section-10 .u-sheet-1 {
+    min-height: 697px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 414px;
+  }
+
+  .u-section-10 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-10 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 1004px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 621px;
+  }
+
+  .u-section-10 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-10 .u-container-layout-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 774px;
+  }
+
+  .u-section-10 .u-image-1 {
+    min-height: 391px;
+  }
+}
