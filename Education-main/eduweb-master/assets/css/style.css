@@ -14,6 +14,8 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+
+
 :root {
 
   /**
@@ -384,12 +386,19 @@ body {
 
 .navbar-list { padding: 15px 20px; }
 
-.navbar-item:not(:last-child) { border-block-end: 1px solid var(--platinum); }
+.navbar-item:not(:last-child) { border-block-end: 1px solid var(--platinum);
+  
+ }
+ .sp{
+  margin: -13px;
+    
+ }
 
 .navbar-link {
   padding-block: 8px;
   font-weight: var(--fw-500);
   transition: var(--transition-1);
+  margin:-13%;
 }
 
 .navbar-link:is(:hover, :focus) { color: var(--kappel); }
@@ -1331,10 +1340,14 @@ input{
   }
 
   .navbar-item:not(:last-child) { border-block-end: none; }
+  
 
   .navbar-link {
     color: var(--eerie-black-1);
     padding-block: 20px;
+    margin:-13%;
+}
+    
   }
 
   .header .btn { margin-inline-end: 0; }
@@ -1406,4 +1419,3 @@ input{
     left: 0;
   }
 
-}
